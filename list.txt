@@ -1,0 +1,29 @@
+! Title: goonless-list
+! Description: tired of goon
+
+
+||nhentai.net^$stylesheet,image
+||donmai.us^$stylesheet,image
+||grok.com^$stylesheet,image
+||nekopoi.care^$stylesheet,image
+||dlsite.com^$stylesheet,image
+||ryuugames.com^$stylesheet,image
+||123av.com^$stylesheet,image
+||sukebei.nyaa.si^$stylesheet,image
+||xnxx.com^$stylesheet,image
+||xhamster.com^$stylesheet,image
+||pornhub.com^$stylesheet,image
+||xvideos.com^$stylesheet,image
+||tnaflix.com^$stylesheet,image
+||hitomi.la^$stylesheet,image
+||e-hentai.org^$stylesheet,image
+||fantia.jp^$stylesheet,image
+||dmm.com^$stylesheet,image
+||fanbox.cc^$stylesheet,image
+||kemono.cr^$stylesheet,image
+||rule34.xxx^$stylesheet,image
+||otomi-games.com^$stylesheet,image
+||f95zone.to^$stylesheet,image
+||desu.xxx^$stylesheet,image
+||chikubi.jp^$stylesheet,image
+||rule34video.com^$stylesheet,image
